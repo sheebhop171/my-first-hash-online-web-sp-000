@@ -19,7 +19,7 @@ def retrieval
                   "oil paintings" => 3
                  }
 
-shipping_manifest["oiling paints"]
+shipping_manifest["oiling paintings"]
 end
 
 def adding
